@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Application is launched successfully]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-12-07T18:36:27 IST" name="Default suite" finished-at="2022-12-07T18:39:03 IST" duration-ms="155667">
+    <groups>
+    </groups>
+    <test started-at="2022-12-07T18:36:27 IST" name="Default test" finished-at="2022-12-07T18:39:03 IST" duration-ms="155667">
+      <class name="com.telus.testcases.EndToEndTestFlow">
+        <test-method signature="launchApplicationUrl()[pri:1, instance:com.telus.testcases.EndToEndTestFlow@14bee915]" started-at="2022-12-07T18:36:27 IST" name="launchApplicationUrl" finished-at="2022-12-07T18:36:43 IST" duration-ms="15792" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Application is launched successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchApplicationUrl -->
+        <test-method signature="customerLogin()[pri:2, instance:com.telus.testcases.EndToEndTestFlow@14bee915]" started-at="2022-12-07T18:36:43 IST" name="customerLogin" finished-at="2022-12-07T18:36:49 IST" duration-ms="6385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customerLogin -->
+        <test-method signature="signOutOption()[pri:3, instance:com.telus.testcases.EndToEndTestFlow@14bee915]" started-at="2022-12-07T18:36:51 IST" name="signOutOption" finished-at="2022-12-07T18:37:08 IST" duration-ms="17480" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signOutOption -->
+        <test-method signature="signInFunctionality()[pri:4, instance:com.telus.testcases.EndToEndTestFlow@14bee915]" started-at="2022-12-07T18:37:08 IST" name="signInFunctionality" finished-at="2022-12-07T18:37:15 IST" duration-ms="6480" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInFunctionality -->
+        <test-method signature="productFunctionality()[pri:5, instance:com.telus.testcases.EndToEndTestFlow@14bee915]" started-at="2022-12-07T18:37:15 IST" name="productFunctionality" finished-at="2022-12-07T18:37:36 IST" duration-ms="20604" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productFunctionality -->
+        <test-method signature="productCart()[pri:6, instance:com.telus.testcases.EndToEndTestFlow@14bee915]" started-at="2022-12-07T18:37:36 IST" name="productCart" finished-at="2022-12-07T18:37:53 IST" duration-ms="17526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productCart -->
+        <test-method signature="setShippingAddress()[pri:7, instance:com.telus.testcases.EndToEndTestFlow@14bee915]" started-at="2022-12-07T18:37:53 IST" name="setShippingAddress" finished-at="2022-12-07T18:38:22 IST" duration-ms="29115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setShippingAddress -->
+        <test-method signature="setCartItem()[pri:8, instance:com.telus.testcases.EndToEndTestFlow@14bee915]" started-at="2022-12-07T18:38:22 IST" name="setCartItem" finished-at="2022-12-07T18:38:36 IST" duration-ms="14168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setCartItem -->
+        <test-method signature="getSuccessValidation()[pri:9, instance:com.telus.testcases.EndToEndTestFlow@14bee915]" started-at="2022-12-07T18:38:37 IST" name="getSuccessValidation" finished-at="2022-12-07T18:38:43 IST" duration-ms="6822" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSuccessValidation -->
+        <test-method signature="signOutOption1()[pri:10, instance:com.telus.testcases.EndToEndTestFlow@14bee915]" started-at="2022-12-07T18:38:43 IST" name="signOutOption1" finished-at="2022-12-07T18:39:01 IST" duration-ms="17593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signOutOption1 -->
+        <test-method signature="closeURL()[pri:11, instance:com.telus.testcases.EndToEndTestFlow@14bee915]" started-at="2022-12-07T18:39:01 IST" name="closeURL" finished-at="2022-12-07T18:39:03 IST" duration-ms="1872" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeURL -->
+      </class> <!-- com.telus.testcases.EndToEndTestFlow -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
