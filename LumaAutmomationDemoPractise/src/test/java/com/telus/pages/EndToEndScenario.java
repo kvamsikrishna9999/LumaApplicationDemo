@@ -74,8 +74,8 @@ public class EndToEndScenario {
 		String continueShipingBtnXpath = "//a[@class='action primary continue']";
 		
 		//Declaring the variable inputs
-		String firstNameInput = "vijay";
-		String lastNameInput = "Antony";
+		String firstNameInput = "Vamsi";
+		String lastNameInput = "Krishna";
 		Random random = new Random(); 
 		int em = random.nextInt(1000);
 		String emailInput ="krish"+em+"@gamil.com";
